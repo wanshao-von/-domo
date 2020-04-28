@@ -1,0 +1,2 @@
+url = "http://wxpusher.zjiecode.com/api/send/message/?appToken=&uid=&content=" + clazz['clazz_name'] + "¿ªÊ¼Ç©µ½À²£¡£¡£¡" + datetime.datetime.today().strftime("%Y/%m/%d %H:%M:%S")
+req = requests.get(url)
